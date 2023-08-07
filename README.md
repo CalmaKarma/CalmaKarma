@@ -8,7 +8,7 @@
 
 - 🤝 Previous contribution to opensource community: <a href="https://github.com/dbeaver/dbeaver/pull/16310" target="_blank" rel="noreferrer"> DBeaver </a>
 
-- 🎓 CSE Bachelor@SUSTech, Shenzhen, China. Planning on pursuit of a Master degree on CS in the United States.
+- 🎓 BS in CSE@SUSTech, Shenzhen, China. Planning on pursuit of a Master degree on CS in the United States.
 
 - 📑 Academic publication: [Evolutionary Multi-Objective Deep Reinforcement Learning for Autonomous UAV Navigation in Large-Scale Complex Environments](https://doi.org/10.1145/3583131.3590446), accepted by [GECCO 2023](https://gecco-2023.sigevo.org/HomePage), to be published after conference. Public repo [here](https://github.com/ASSANDHOLE/EMO-RL-UAV).
 
