@@ -1,16 +1,16 @@
 <p align="center"> <img src="https://media.tenor.com/WmU_8UAyg_8AAAAC/night.gif" width="100%"/> </p>
 <h1 align="center">Hi 👋, I'm Zhilong "Jason" Shen</h1>
-<h3 align="center">A CSE student in China</h3>
+<h3 align="center">A Software Enginnering Student in the US</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=calmakarma&label=Profile%20views&color=0e75b6&style=flat" alt="calmakarma" /> </p>
 
-- 😄 I’m currently working on **Decentralized Finance, Evolutionary Algorithms and Machine Learning**.
+- 😄 I’m aspiring full-stack developer and software architect, and have previously worked on **Decentralized Finance, Evolutionary Algorithms and Machine Learning**.
 
 - 🤝 Previous contribution to opensource community: <a href="https://github.com/dbeaver/dbeaver/pull/16310" target="_blank" rel="noreferrer"> DBeaver </a>
 
-- 🎓 BS in CSE@SUSTech, Shenzhen, China. Planning on pursuit of a Master degree on CS in the United States.
+- 🎓 MS in SE@NEU, Boston, MA. BEng in CSE@SUSTech, Shenzhen, China.
 
-- 📑 Academic publication: [Evolutionary Multi-Objective Deep Reinforcement Learning for Autonomous UAV Navigation in Large-Scale Complex Environments](https://doi.org/10.1145/3583131.3590446), accepted by [GECCO 2023](https://gecco-2023.sigevo.org/HomePage), to be published after conference. Public repo [here](https://github.com/ASSANDHOLE/EMO-RL-UAV).
+- 📑 Academic publication: [Evolutionary Multi-Objective Deep Reinforcement Learning for Autonomous UAV Navigation in Large-Scale Complex Environments](https://doi.org/10.1145/3583131.3590446), co-first author, accepted and published by [GECCO 2023](https://gecco-2023.sigevo.org/HomePage). Public repo [here](https://github.com/ASSANDHOLE/EMO-RL-UAV).
 
 - 📫 How to reach me: **szlmail@qq.com**
 
